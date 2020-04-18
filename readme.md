@@ -1,0 +1,9 @@
+#python与大数据
+测试各种python在大数据环境中的应用
+hive
+kafka
+mapreduce
+pyspark
+pyflink
+hbase
+influxdb
