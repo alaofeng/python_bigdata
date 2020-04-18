@@ -1,0 +1,27 @@
+{
+    "mappings": {
+        "properties": {
+            "content": {
+                "type": "text",
+                "analyzer": "ik_max_word",
+                "search_analyzer": "ik_smart"
+            },
+            "ext": {
+                "type": "keyword"
+            },
+            "path": {
+                "type": "text",
+                "analyzer": "ik_max_word",
+                "search_analyzer": "ik_smart"
+            },
+            "size": {
+                "type": "int"
+            }
+        }
+    },
+    "settings": {
+        "highlight":{
+            "max_analyzed_offset": 100000000
+        }
+    }
+}
