@@ -20,7 +20,7 @@ lxml==4.5.0
 mail-parser==3.12.0
 matplotlib==3.2.1
 multidict==4.7.5
-numpy==1.18.2
+numpy==1.22.0
 Pillow==7.1.1
 pulsar==2.0.2
 py4j==0.10.7
